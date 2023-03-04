@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="cine">Cinépolis Altama</string>
+    <string name="capital">La capital del cine</string>
+</resources>
